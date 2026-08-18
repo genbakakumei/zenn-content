@@ -1,0 +1,14 @@
+title: "AIエージェント自律運用実践ガイド"
+summary: "記憶が消えるAIエージェントに、状態管理・権限設計・人間依存タスクの外部化を組み込み、定期実行だけで事業やプロダクトを回し続けるための実務パターン集。"
+topics: ["ai", "agent", "llm", "個人開発", "自動化"]
+published: false
+price: 1000
+chapters:
+  - 01-why-this-book
+  - 02-three-file-pattern
+  - 03-authority-boundaries
+  - 04-human-blocker-handling
+  - 05-scheduled-execution
+  - 06-self-verification
+  - 07-zero-cost-stack
+  - 08-checklist
