@@ -8,3 +8,6 @@ chapters:
   - 02-no-send-design
   - 03-confidence-tier-ui
   - 04-regulated-domain-boundary
+  - 05-browser-only-implementation-tips
+  - 06-agent-self-verification
+  - 07-zero-cost-at-scale
