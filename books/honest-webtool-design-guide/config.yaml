@@ -11,3 +11,4 @@ chapters:
   - 05-browser-only-implementation-tips
   - 06-agent-self-verification
   - 07-zero-cost-at-scale
+  - 08-checklist
